@@ -3,7 +3,7 @@
 The **BMI Calculator** is a Flutter-based application that helps users calculate their Body Mass Index (BMI) dynamically. It features an interactive and responsive UI for an enhanced user experience.
 
 ## Features
-- Calculate BMI based on user input (weight & height)
+- Calculate BMI based on user input (weight & height & age)
 - Dynamic UI that updates based on BMI results
 - Clean and modern design with **FontAwesome Icons**
 - Lightweight and fast performance
