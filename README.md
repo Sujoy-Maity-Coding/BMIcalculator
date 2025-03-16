@@ -8,7 +8,7 @@ The **BMI Calculator** is a Flutter-based application that helps users calculate
 - Clean and modern design with **FontAwesome Icons**
 - Lightweight and fast performance
 
-![BMIcalculator image]()
+![BMIcalculator image](https://github.com/Sujoy-Maity-Coding/BMIcalculator/blob/main/img2.jpg)
 
 ## Tech Stack
 - **Flutter** (Dart)
